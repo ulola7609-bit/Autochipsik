@@ -1,0 +1,10 @@
+{
+  "name": "Autochip.uz Performance Lab",
+  "short_name": "Autochip.uz",
+  "description": "Чип-тюнинг и программное улучшение автомобилей",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0c0d",
+  "theme_color": "#0a0c0d",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
